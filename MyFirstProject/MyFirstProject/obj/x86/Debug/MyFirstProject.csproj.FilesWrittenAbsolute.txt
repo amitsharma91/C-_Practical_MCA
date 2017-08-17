@@ -1,0 +1,5 @@
+/home/developeramit/.NET/MyFirstProject/MyFirstProject/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/developeramit/.NET/MyFirstProject/MyFirstProject/bin/Debug/MyFirstProject.exe.mdb
+/home/developeramit/.NET/MyFirstProject/MyFirstProject/bin/Debug/MyFirstProject.exe
+/home/developeramit/.NET/MyFirstProject/MyFirstProject/obj/x86/Debug/MyFirstProject.exe
+/home/developeramit/.NET/MyFirstProject/MyFirstProject/obj/x86/Debug/MyFirstProject.exe.mdb

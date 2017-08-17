@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="MyFirstProject/MyFirstProject.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstProject/Program11.cs">
+    <Files>
+      <File FileName="MyFirstProject/Program1.cs" Line="3" Column="2" />
+      <File FileName="MyFirstProject/Program2.cs" Line="7" Column="3" />
+      <File FileName="MyFirstProject/Program3.cs" Line="1" Column="3" />
+      <File FileName="MyFirstProject/Program4.cs" Line="36" Column="2" />
+      <File FileName="MyFirstProject/Program5.cs" Line="6" Column="1" />
+      <File FileName="MyFirstProject/Program6.cs" Line="6" Column="1" />
+      <File FileName="MyFirstProject/Program7.cs" Line="6" Column="11" />
+      <File FileName="MyFirstProject/Program8.cs" Line="7" Column="14" />
+      <File FileName="MyFirstProject/Program9.cs" Line="6" Column="3" />
+      <File FileName="MyFirstProject/Program10.cs" Line="6" Column="1" />
+      <File FileName="MyFirstProject/Program11.cs" Line="37" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

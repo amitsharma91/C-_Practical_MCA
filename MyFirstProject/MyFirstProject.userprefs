@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="MyFirstProject/MyFirstProject.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstProject/Program4.cs">
+    <Files>
+      <File FileName="MyFirstProject/Program.cs" Line="16" Column="6" />
+      <File FileName="MyFirstProject/Program2.cs" Line="12" Column="5" />
+      <File FileName="MyFirstProject/Program3.cs" Line="12" Column="5" />
+      <File FileName="MyFirstProject/Program4.cs" Line="11" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstProject" expanded="True">
+            <Node name="MyFirstProject" expanded="True">
+              <Node name="Program4.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
